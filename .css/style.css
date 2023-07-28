@@ -1,0 +1,75 @@
+.primero{
+    background-color: #4d908e;
+    width: 1320px;
+    height: 106px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.segundo{
+    background-color: #4d908e;
+    width: 1320px;
+    height: 160px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.tercero{
+    background-color: #4d908e;
+    width: 651px;
+    height: 160px;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto; 
+}
+
+.cuarto{
+    background-color: #4d908e;
+    width: 651px;
+    height: 160px;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.contenedor{
+    display: flex;
+    text-align: center;
+}
+
+.quinto{
+    background-color: #4d908e;
+    width: 1320px;
+    height: 160px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.sexto{
+    background-color: #4d908e;
+    width: 651px;
+    height: 160px;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.septimo{
+    background-color: #4d908e;
+    width: 651px;
+    height: 160px;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.contenedor{
+    display: flex;
+    text-align: center;
+}
